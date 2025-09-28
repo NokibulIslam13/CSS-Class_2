@@ -1,0 +1,65 @@
+.try{
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+}
+
+.hotel{
+    background-color: linen;
+    width: 350px;
+    padding: 20px;
+    text-align: justify;
+    margin: 10px 10px;
+    display: inline-block;
+    border-radius: 25px;
+
+}
+
+.hotelName{
+    text-align: left;
+    font-size: large;
+}
+
+.hotel_list{
+    margin: auto;
+    width: fit-content;
+    border-radius: 25px;
+    background-color: lightgrey;
+}
+
+.hotel a{
+    text-decoration: none;
+    display: inline-block;
+    color: navy;
+    padding: 10px 15px;
+    border:1px solid rgb(0, 0, 0);
+    transition: 0.5s ;
+    border-radius: 10px;
+}
+
+.hotel a:hover{
+    background-color: lightseagreen;
+    color: white;
+    border-radius: 15px;
+}
+
+.image{
+    width: 350px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.rent{
+    color: lightgrey;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.detail{
+    font-size: 20px;
+    color: lightslategray;
+}
+
+p {
+    margin: 10px 0px;
+}
